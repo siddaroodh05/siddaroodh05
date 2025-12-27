@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Siddaroodh
 
-<!--
-**siddaroodh05/siddaroodh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science (AI & ML) undergraduate  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+💻 Learning and building projects using Python, JavaScript, and web technologies  
+📈 Passionate about problem-solving and continuous learning  
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Python, JavaScript
+- Basics of Machine Learning & AI
+- Git & GitHub
+- Web Development fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
