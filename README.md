@@ -1,4 +1,4 @@
-# Hi, I’m <Siddaroodh> 👋
+# Hi, I’m Siddaroodh 👋
 
 > AI/ML-focused CS student passionate about problem-solving and software development
 
