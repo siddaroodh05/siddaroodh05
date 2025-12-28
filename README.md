@@ -1,15 +1,14 @@
-# Hi, I’m <Your Name> 👋
+# Hi, I’m <Siddaroodh> 👋
 
-> Short tagline or one-line summary about you — e.g. "Full‑stack developer building delightful web apps"
+> AI/ML-focused CS student passionate about problem-solving and software development
 
 ---
 
 ## About Me
-I’m <Your Name>, a <your role — e.g. Software Engineer> based in <city/country or Remote>. I enjoy building <what you build> and learning new technologies.
+I’m <Siddaroodh>, a a CS undergraduate based in India, building practical software solutions and constantly learning.
 
-- 🔭 I’m currently working on: <project name or description>
-- 🌱 I’m learning: <topics>
-- 📫 Reach me at: <your.email@example.com>
+- 🌱Expanding skills in : <FASTAPi,PostgreSQL,AWS>
+- 📫 Reach me at: <siddaroodh2004@gmail.com>
 
 ---
 
