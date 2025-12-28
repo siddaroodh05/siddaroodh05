@@ -25,4 +25,7 @@ I’m <Siddaroodh>, a a CS undergraduate based in India, building practical soft
   <a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="28"/></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" height="28"/></a>
   <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" height="28"/></a>
+  <a href="https://www.oracle.com/java/" title="Java"><img src="https://cdn.simpleicons.org/java/007396" alt="Java" height="28"/></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" height="28"/></a>
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" height="28"/></a>
 </p>
