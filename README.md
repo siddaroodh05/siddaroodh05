@@ -14,7 +14,7 @@ I’m <Siddaroodh>, a a CS undergraduate based in India, building practical soft
 
 <p>
   <a href="https://www.python.org/" title="Python"><img src="https://cdn.simpleicons.org/python" alt="Python" height="28"/></a>
-  <a href="https://www.oracle.com/java/" title="Java"><img src="[https://cdn.simpleicons.org/java](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg)" alt="Java" height="28"/></a>
+  <a href="https://www.oracle.com/java/" title="Java"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" alt="Java" height="28"/></a>
   <a href="https://reactjs.org/" title="React"><img src="https://cdn.simpleicons.org/react" alt="React" height="28"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="28"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://cdn.simpleicons.org/css3" alt="CSS" height="28"/></a>
