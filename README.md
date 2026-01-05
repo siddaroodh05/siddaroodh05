@@ -38,8 +38,4 @@ I’m <Siddaroodh>, a a CS undergraduate based in India, building practical soft
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28"/>
   </a>
 
-  <!-- AWS (badge fallback) -->
-  <a href="https://aws.amazon.com/" title="AWS">
-    <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="28"/>
-  </a>
 </p>
